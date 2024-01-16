@@ -57,7 +57,7 @@ Segmentation of a 512*512 image takes less than a second on a modern GPU.
 
 ## Results for validation set (only trained on german id cards)
 Accuracy:  
-99.87%
+94.87%
 
 
 
